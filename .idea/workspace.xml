@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f1c023-137a-470b-8159-d477467af3e3" name="Changes" comment="logistic regression example">
-      <change afterPath="$PROJECT_DIR$/spaceship_titanic/data/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spaceship_titanic/data/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+    <list default="true" id="17f1c023-137a-470b-8159-d477467af3e3" name="Changes" comment="spaceshiptitanicmodel done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spaceship_titanic/spaceship_data_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spaceship_titanic/spaceship_data_exploration.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -98,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704553267500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="spaceshiptitanicmodel done">
+      <option name="closed" value="true" />
+      <created>1704987238097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704987238097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="spaceshiptitanicmodel done">
+      <option name="closed" value="true" />
+      <created>1704987444066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704987444066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="logistic regression example" />
-    <option name="LAST_COMMIT_MESSAGE" value="logistic regression example" />
+    <MESSAGE value="spaceshiptitanicmodel done" />
+    <option name="LAST_COMMIT_MESSAGE" value="spaceshiptitanicmodel done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
